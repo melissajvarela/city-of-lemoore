@@ -1,0 +1,49 @@
+
+.about-text{
+    animation-duration: 3s;
+     height:60px;
+    width:600px;
+    border:3px solid #ffff80; /*yellow*/
+    display:inline-block;
+    text-align:center;
+    line-height:61px;
+    margin-left:350px;
+    color:#000066; /*navy blue*/;
+}
+.fa-hand-peace i{
+    animation-iteration-count:5;
+}
+
+.container{
+    width:100%;
+    margin:0 auto;
+    height:370px;
+    margin-top:18px;
+}
+
+.about-col{
+    width:30%;
+    height:520px;
+   border:3px solid #ffff80; /*yellow*/
+    float:left;
+    margin-left:18px;
+    text-align:center;
+     color:#000066; /*navy blue*/
+}
+
+.wave-pic{
+    width:300px;
+    height:250px;
+}
+
+.about-col p{
+    text-align:justify;
+    padding:15px;
+}
+
+.pic, .audio, .video{
+    margin-top:0px;
+}
+.footer{
+    margin-top:390px;
+}
